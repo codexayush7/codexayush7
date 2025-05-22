@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ayush!
+# 👋 Hey there, I'm Ayush Kandari!
 
 Welcome to my digital playground! I’m a passionate **Full-Stack Developer** who loves crafting powerful and elegant web applications from front to back — pixel to performance. 🚀
 
